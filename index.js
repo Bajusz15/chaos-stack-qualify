@@ -10,7 +10,7 @@ let options = {
 request(options, (error, response, body) => {
     if (error) throw new Error(error);
 
-    //console.log(body);
+    console.log(body);
 });
 
 
@@ -19,10 +19,12 @@ let postOptions = {
     method: 'POST',
     url: 'https://registration.hungary.chaosstack.com/api/qualify/set_lights',
     headers: { 'content-type': 'application/json', Authorization: keys.apiToken },
-    desiredState: "on",
-    lights: ["light-te7ie5", "light-mef6th"]
-
-
+    body: {
+        'desiredState': "on",
+        'lights': ["light-4f33566",
+            "light-4d4a9de",
+            "light-f7dcea4"]
+    }
 };
 
 request(postOptions, (error, response, body) => {
