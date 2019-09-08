@@ -1,32 +1,19 @@
-const request = require("request");
+const axios = require('axios');
 const keys = require("./keys");
 
-let options = {
+
+axios({
     method: 'GET',
     url: 'https://registration.hungary.chaosstack.com/api/qualify/user_commands',
     headers: { Authorization: keys.apiToken }
-};
-
-request(options, (error, response, body) => {
-    if (error) throw new Error(error);
-
-    //console.log(body);
+}).then(function (response) {
+    console.log(response.data)
 });
 
-
-
-let postOptions = {
+axios({
     method: 'POST',
     url: 'https://registration.hungary.chaosstack.com/api/qualify/set_lights',
     headers: { 'content-type': 'application/json', Authorization: keys.apiToken },
     desiredState: "on",
     lights: ["light-te7ie5", "light-mef6th"]
-
-
-};
-
-request(postOptions, (error, response, body) => {
-    if (error) console.log(error);
-
-    console.log(body);
 });
