@@ -1,0 +1,434 @@
+[
+  {
+    "user": "Stephanie Hurst",
+    "rooms": {
+      "conference room": ["light-2ed454d", "light-0742d8f"],
+      "kitchen": ["light-33f5996", "light-884214e", "light-98c078f"]
+    }
+  },
+  {
+    "user": "Andrew Lopez",
+    "rooms": {
+      "utility room": ["light-903d15e", "light-9ce08e9", "light-37a7ae3"],
+      "games room": ["light-5b699d8", "light-5a5dd5c"],
+      "attic": ["light-4f14994", "light-464c3f4"],
+      "bedroom": ["light-3edd532", "light-3f43f6d", "light-e00beff"],
+      "porch": ["light-26cc928"]
+    }
+  },
+  {
+    "user": "Mr. Scott Peterson",
+    "rooms": {
+      "porch": ["light-5acbfb9"],
+      "sitting room": ["light-39902bb", "light-54c3e18"],
+      "utility room": ["light-6803d68"]
+    }
+  },
+  {
+    "user": "Walter Garcia",
+    "rooms": {
+      "workshop room": ["light-2e97c6a"],
+      "games room": ["light-4821abd", "light-897e210", "light-908e8b3"],
+      "conference room": ["light-d0f3f5c"],
+      "shed": ["light-457d0da", "light-1e32353", "light-e668695"],
+      "porch": ["light-1c126b3"]
+    }
+  },
+  {
+    "user": "Jordan Price",
+    "rooms": {
+      "lounge": ["light-847e910", "light-431d9b5", "light-cefedec"],
+      "living room": ["light-792c434"]
+    }
+  },
+  {
+    "user": "Jason Anderson",
+    "rooms": {
+      "attic": ["light-fc27466", "light-6940f66"],
+      "hall": ["light-6952174", "light-f1fef64"],
+      "workshop room": ["light-dfafabd"],
+      "porch": ["light-5bc5ddd", "light-534c1bc"]
+    }
+  },
+  {
+    "user": "Darren Gonzalez",
+    "rooms": {
+      "attic": ["light-2bea987", "light-a1d0263", "light-9df60a2"],
+      "dining room": ["light-5e0a9ca", "light-874e40d"],
+      "study": ["light-86b7cb0", "light-890947c", "light-f13441e"],
+      "hall": ["light-6b3a7e3"]
+    }
+  },
+  {
+    "user": "Tanya Medina",
+    "rooms": {
+      "living room": ["light-202099b"],
+      "sitting room": ["light-87dfa7b"]
+    }
+  },
+  {
+    "user": "Catherine Rivers",
+    "rooms": {
+      "attic": ["light-1cce945", "light-caf1335"],
+      "utility room": ["light-be19f63", "light-57a13a7", "light-9f33e96"],
+      "lounge": ["light-8453f5c", "light-b04a6c0"],
+      "bedroom": ["light-f0303ee", "light-71e3670"],
+      "shed": ["light-57e3a51", "light-dff24b1"]
+    }
+  },
+  {
+    "user": "Troy Quinn",
+    "rooms": {
+      "lounge": ["light-6c4d1f9"],
+      "porch": ["light-d5ab934"]
+    }
+  },
+  {
+    "user": "Steven Miller",
+    "rooms": {
+      "workshop room": ["light-20749a6", "light-74087a8", "light-0359026"],
+      "living room": ["light-bd22f5d", "light-0bc289f", "light-ee6f176"],
+      "guest room": ["light-8daa473", "light-7f80588", "light-0f60329"],
+      "hall": ["light-983ad4d", "light-0c7137b"]
+    }
+  },
+  {
+    "user": "Ronald Austin",
+    "rooms": {
+      "lounge": ["light-f61e4aa", "light-281c1b1", "light-a2d508a"],
+      "guest room": ["light-8bf9a17", "light-6ff4791"],
+      "porch": ["light-6facd17", "light-e030245"],
+      "shed": ["light-da1a2cb", "light-3a94cd1"]
+    }
+  },
+  {
+    "user": "Scott Murphy",
+    "rooms": {
+      "porch": ["light-eeb7fd6", "light-e51fed3"],
+      "kitchen": ["light-6b8e679", "light-366b6aa"],
+      "workshop room": ["light-fb8ea71", "light-fbb35f0"],
+      "shed": ["light-beea8f0", "light-c71b4b2", "light-63b1183"]
+    }
+  },
+  {
+    "user": "Michael Lam",
+    "rooms": {
+      "games room": ["light-ed0c287", "light-50293c6"],
+      "shed": ["light-d390909", "light-fb93473"],
+      "utility room": ["light-085cc6e"]
+    }
+  },
+  {
+    "user": "Glenn Foster",
+    "rooms": {
+      "porch": ["light-93bce5d", "light-2b39ea4", "light-5b3aa58"],
+      "utility room": ["light-f776365", "light-2b372cd"],
+      "kitchen": ["light-617f6eb"],
+      "study": ["light-a5bbadd", "light-cc4feae", "light-ac6ce4f"],
+      "conference room": ["light-197820e"]
+    }
+  },
+  {
+    "user": "Jesus Miller",
+    "rooms": {
+      "attic": ["light-deea317", "light-5dcff52", "light-b73962f"],
+      "lounge": ["light-a53a688", "light-ba5ecc6"],
+      "shed": ["light-aacf3af", "light-f2e77e8"],
+      "guest room": ["light-e0bd280"],
+      "living room": ["light-7c4c9f4"]
+    }
+  },
+  {
+    "user": "Paul Kirk",
+    "rooms": {
+      "utility room": ["light-e2ac802", "light-90040dc"],
+      "sitting room": ["light-d829393", "light-b4c3bf9", "light-d54fa69"]
+    }
+  },
+  {
+    "user": "Chris Griffith",
+    "rooms": {
+      "guest room": ["light-0c6d443"],
+      "utility room": ["light-761afa6", "light-9a6cba6", "light-64523ee"]
+    }
+  },
+  {
+    "user": "Lisa Walker",
+    "rooms": {
+      "dining room": ["light-19e0e2a", "light-ae6ab11"],
+      "attic": ["light-8c921f4"],
+      "games room": ["light-e42c8ab", "light-c97fc59", "light-bcd1c1d"],
+      "shed": ["light-49eabdc"]
+    }
+  },
+  {
+    "user": "Cameron Carter",
+    "rooms": {
+      "attic": ["light-5dea087", "light-136b19d"],
+      "kitchen": ["light-c5af387", "light-5ef6c54", "light-dcfa97d"],
+      "conference room": ["light-8e34645"],
+      "lounge": ["light-74db5b5", "light-54f2b31"],
+      "dining room": ["light-0b01b66", "light-aa1f93c"]
+    }
+  },
+  {
+    "user": "Jessica Stanton",
+    "rooms": {
+      "sitting room": ["light-e0d4964", "light-870f535", "light-41f08db"],
+      "hall": ["light-ae6c97e", "light-a315ef7"],
+      "study": ["light-b0b6a0c", "light-c8e9445", "light-c29b290"],
+      "kitchen": ["light-96d39bf", "light-aa3ca29"],
+      "bedroom": ["light-4eec3ad", "light-1742f2d"]
+    }
+  },
+  {
+    "user": "Miss Gabriela Rice PhD",
+    "rooms": {
+      "lounge": ["light-c397400"],
+      "hall": ["light-98e0839", "light-0cba76a", "light-0a6eb97"],
+      "games room": ["light-4a8b92c"]
+    }
+  },
+  {
+    "user": "Kimberly Mcbride",
+    "rooms": {
+      "lounge": ["light-29e9018"],
+      "dining room": ["light-b0910bc", "light-4ddd276", "light-531c7b0"],
+      "attic": ["light-f77acef", "light-d40f955"],
+      "conference room": ["light-0b07397"]
+    }
+  },
+  {
+    "user": "Beth Mooney",
+    "rooms": {
+      "lounge": ["light-33486c0", "light-9e897bb"],
+      "dining room": ["light-483758a", "light-5457bf6", "light-2406761"],
+      "hall": ["light-8b150f0"],
+      "bedroom": ["light-1caec6a", "light-06f642a", "light-3528af9"],
+      "sitting room": ["light-9c8ea1b", "light-237d16c", "light-493a32a"]
+    }
+  },
+  {
+    "user": "Jeffrey Tate",
+    "rooms": {
+      "bedroom": ["light-76c6baa", "light-92aac17"],
+      "utility room": ["light-1122daa", "light-9af8223", "light-c7f4953"],
+      "dining room": ["light-3dd6aa7", "light-0604e53"]
+    }
+  },
+  {
+    "user": "Timothy Morris",
+    "rooms": {
+      "guest room": ["light-a0d1b44", "light-47ab554", "light-9a07fd8"],
+      "bedroom": ["light-d9b5063", "light-c85d355", "light-7f9ab6d"],
+      "hall": ["light-17f0931", "light-389bcc4"],
+      "porch": ["light-fb97920", "light-ae13de4", "light-bab6c83"]
+    }
+  },
+  {
+    "user": "Caroline Jimenez",
+    "rooms": {
+      "games room": ["light-d6d030a", "light-7022250"],
+      "guest room": ["light-0094bab", "light-0265fd9"],
+      "dining room": ["light-525e08b", "light-3cc9fb5"],
+      "hall": ["light-d91b168", "light-ef0bd15"],
+      "porch": ["light-25460b4"]
+    }
+  },
+  {
+    "user": "Felicia Guzman",
+    "rooms": {
+      "dining room": ["light-112def2"],
+      "sitting room": ["light-161eeee", "light-2f42d70"],
+      "conference room": ["light-bf79b3f", "light-c12bf25", "light-c7d076b"],
+      "utility room": ["light-b200660", "light-40b5409", "light-96f6f83"],
+      "study": ["light-d09fe0f", "light-3de2782"]
+    }
+  },
+  {
+    "user": "Joshua Hicks",
+    "rooms": {
+      "kitchen": ["light-7c96da0", "light-2a6886c"],
+      "lounge": ["light-e69b82d", "light-106cfd3", "light-987df60"],
+      "living room": ["light-c5d0db1"],
+      "shed": ["light-477b1d5", "light-fc738be", "light-1d55da2"],
+      "study": ["light-bd04248", "light-052737b"]
+    }
+  },
+  {
+    "user": "Heather Bryant",
+    "rooms": {
+      "utility room": ["light-1e1512e", "light-d142803", "light-79e91c9"],
+      "porch": ["light-b5a9385"],
+      "guest room": ["light-7bf41a8", "light-f7688e7"],
+      "shed": ["light-9f1bf1b", "light-c8e62ff"],
+      "sitting room": ["light-038af8d", "light-baa4c43", "light-539ded2"]
+    }
+  },
+  {
+    "user": "Sharon Avila",
+    "rooms": {
+      "bedroom": ["light-e164610", "light-eefee4e"],
+      "dining room": ["light-4373f5a", "light-a2dae23", "light-399b034"],
+      "games room": ["light-d532546", "light-b1377d2"]
+    }
+  },
+  {
+    "user": "Christina Dennis",
+    "rooms": {
+      "shed": ["light-8de70a6", "light-2c49479"],
+      "kitchen": ["light-77a161f", "light-caba0cd"],
+      "lounge": ["light-0e04e82", "light-ca04a9c"],
+      "study": ["light-14eabc5"]
+    }
+  },
+  {
+    "user": "Daniel Waller",
+    "rooms": {
+      "shed": ["light-a8a98ff", "light-a470b77"],
+      "conference room": ["light-22f3ce8", "light-e2f2d62"]
+    }
+  },
+  {
+    "user": "Christian Young",
+    "rooms": {
+      "lounge": ["light-3b2609e", "light-8cae39a", "light-6f3c66c"],
+      "hall": ["light-e56feed", "light-f025e2a"],
+      "guest room": ["light-9c726ec"],
+      "workshop room": ["light-4b106cc", "light-a003f97", "light-8d958a5"],
+      "shed": ["light-6b7b7c2"]
+    }
+  },
+  {
+    "user": "Sarah Nunez",
+    "rooms": {
+      "shed": ["light-d4dce50"],
+      "workshop room": ["light-be93921", "light-74447d8", "light-2e01918"],
+      "living room": ["light-d712be7", "light-fec4c3f"],
+      "attic": ["light-68cf847", "light-8dc0aef", "light-587155b"],
+      "conference room": ["light-e0fecc7"]
+    }
+  },
+  {
+    "user": "Robert Gutierrez",
+    "rooms": {
+      "living room": ["light-16e52a5", "light-f5030d2"],
+      "dining room": ["light-422d13d", "light-84a5c2d", "light-e706f77"],
+      "lounge": ["light-f13b8e5", "light-6456453"]
+    }
+  },
+  {
+    "user": "Denise Ramos MD",
+    "rooms": {
+      "bedroom": ["light-f5769d1", "light-902a160"],
+      "sitting room": ["light-ddb83c0"],
+      "study": ["light-0e0b8ac", "light-e722cdd", "light-610e826"]
+    }
+  },
+  {
+    "user": "Lori Jones",
+    "rooms": {
+      "attic": ["light-e595920"],
+      "hall": ["light-25bde18", "light-7591efd"],
+      "utility room": ["light-928e375"],
+      "lounge": ["light-2e2c01e", "light-9d4d7bc"],
+      "dining room": ["light-4d6f2d7"]
+    }
+  },
+  {
+    "user": "Dylan Beltran",
+    "rooms": {
+      "kitchen": ["light-49a5c6b", "light-fa419cd"],
+      "living room": ["light-3306c1a", "light-b6768ed"]
+    }
+  },
+  {
+    "user": "Zachary Green",
+    "rooms": {
+      "guest room": ["light-2735547", "light-0218ace"],
+      "bedroom": ["light-c3f4e1a"],
+      "study": ["light-1e16eef", "light-23102eb", "light-f2668e8"],
+      "shed": ["light-16c9e96"]
+    }
+  },
+  {
+    "user": "Brandon Hansen",
+    "rooms": {
+      "sitting room": ["light-f37e3e4"],
+      "games room": ["light-4757de6", "light-68ae449"],
+      "dining room": ["light-be98aab", "light-7c8540d", "light-0a402be"]
+    }
+  },
+  {
+    "user": "Lisa Johnson",
+    "rooms": {
+      "attic": ["light-f4f6ff3", "light-d654d46"],
+      "utility room": ["light-507cfcf", "light-74d18b2"]
+    }
+  },
+  {
+    "user": "Brenda Moore",
+    "rooms": {
+      "workshop room": ["light-e65d31d"],
+      "kitchen": ["light-b1bfc6f", "light-aef2176"],
+      "study": ["light-1507b9a"],
+      "living room": ["light-9271561", "light-e198288"]
+    }
+  },
+  {
+    "user": "Tamara Murphy",
+    "rooms": {
+      "conference room": ["light-05260e9"],
+      "dining room": ["light-9b1f07d"],
+      "utility room": ["light-4f33566", "light-4d4a9de", "light-f7dcea4"]
+    }
+  },
+  {
+    "user": "Victor Robinson",
+    "rooms": {
+      "study": ["light-b1fe2f1", "light-ec3fe75"],
+      "hall": ["light-712501b", "light-1011914"]
+    }
+  },
+  {
+    "user": "Michael Lutz",
+    "rooms": {
+      "kitchen": ["light-35fd4e1", "light-23001a5"],
+      "sitting room": ["light-a6831be"],
+      "dining room": ["light-823fef0", "light-f111580"]
+    }
+  },
+  {
+    "user": "Kenneth Benton",
+    "rooms": {
+      "lounge": ["light-e949586", "light-c8df20e"],
+      "utility room": ["light-3f456f5", "light-259d707"]
+    }
+  },
+  {
+    "user": "Walter Murphy",
+    "rooms": {
+      "dining room": ["light-62a21f5", "light-37478a4", "light-894f9cb"],
+      "sitting room": ["light-2d576d5"],
+      "kitchen": ["light-19384ae", "light-0a14d9b"]
+    }
+  },
+  {
+    "user": "Amy Myers",
+    "rooms": {
+      "conference room": ["light-93eedc9", "light-10a2907", "light-c1943bf"],
+      "kitchen": ["light-168c20c"],
+      "bedroom": ["light-32a141a", "light-8567e1c", "light-bf43699"],
+      "living room": ["light-f81fd96", "light-29d323e", "light-0d4fe35"]
+    }
+  },
+  {
+    "user": "Adrienne Nelson",
+    "rooms": {
+      "utility room": ["light-a12ece3", "light-851a95a"],
+      "attic": ["light-58569b5", "light-f07021f"],
+      "sitting room": ["light-6b10d73"],
+      "dining room": ["light-f70afc1", "light-82e8412", "light-f9a5d29"]
+    }
+  }
+]
