@@ -29,7 +29,7 @@ async function getUser() {
 
 async function sendUserData() {
     try {
-        JSON.stringify(orderedList)
+        JSON.stringify(orderedList);
         for (let i = 0; i < orderedList.length; i++) {
             const response = await axios({
                 method: 'POST',
